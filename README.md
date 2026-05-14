@@ -69,6 +69,7 @@ http://localhost:5041
 
 ## 📁 Project Structure
 
+```
 NeuroTrack/
 ├── Controllers/
 │   ├── HomeController.cs
@@ -87,9 +88,11 @@ NeuroTrack/
 │   │   └── Focus.cshtml
 │   └── Result/
 │       └── Dashboard.cshtml
-├── wwwroot/css/
-│   └── site.css
+├── wwwroot/
+│   └── css/
+│       └── site.css
 └── Program.cs
+```
 
 ---
 
